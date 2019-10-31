@@ -5,7 +5,7 @@ body{
 .mygrid{
     display: grid;
     width: 80%;
-    grid-template-rows: .325fr 10fr 20px;
+    grid-template-rows: 100px 10fr 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
