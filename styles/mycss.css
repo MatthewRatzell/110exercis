@@ -5,27 +5,27 @@ body{
 .mygrid{
     display: grid;
     width: 80%;
-    grid-template-rows: 100px 10fr 20px;
+    grid-template-rows: 80px 10fr 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
 .mygrid2{
     display: grid;
     width: 80%;
-    grid-template-rows: 100px 70fr 20px;
+    grid-template-rows: 80px 70fr 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .mygrid3{
     display: grid;
     width: 80%;
-    grid-template-rows: 100px 10fr 20px;
+    grid-template-rows: 80px 10fr 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 
 }
 .mygrid4{
     display: grid;
     width: 80%;
-    grid-template-rows: 100px 10fr 20px;
+    grid-template-rows: 80px 10fr 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 
 }
