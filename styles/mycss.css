@@ -12,20 +12,20 @@ body{
 .mygrid2{
     display: grid;
     width: 80%;
-    grid-template-rows: 1.1fr 70fr 20px;
+    grid-template-rows: 100px 70fr 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 .mygrid3{
     display: grid;
     width: 80%;
-    grid-template-rows: .37fr 10fr 20px;
+    grid-template-rows: 100px 10fr 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 
 }
 .mygrid4{
     display: grid;
     width: 80%;
-    grid-template-rows: .58fr 10fr 20px;
+    grid-template-rows: 100px 10fr 20px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
 
 }
